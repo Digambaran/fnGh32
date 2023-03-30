@@ -1,0 +1,15 @@
+{
+  "name": "fnGh32",
+  "blockId": "snAYnmc96d06pxto4IWYN",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/fnGh32",
+    "ssh": "git@github.com:Digambaran/fnGh32.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": ["2.0.0"]
+}
